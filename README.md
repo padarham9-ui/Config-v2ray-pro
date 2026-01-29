@@ -7,5 +7,5 @@
 https://raw.githubusercontent.com/padarham9-ui/Config-v2ray-pro/refs/heads/main/v2ray.txt
 ```
 
-# Telegram Channel : @CONFIGFARS
+Telegram Channel : @CONFIGFARS
 [Telegram Channel](https://telegram.me/configfars)
