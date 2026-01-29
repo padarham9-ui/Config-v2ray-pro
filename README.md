@@ -8,4 +8,4 @@ https://raw.githubusercontent.com/padarham9-ui/Config-v2ray-pro/refs/heads/main/
 ```
 
 # Telegram Channel : @CONFIGFARS
-[Telegram Channel](telegram.me/configfars)
+[Telegram Channel](https://telegram.me/configfars)
